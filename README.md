@@ -1,5 +1,29 @@
 # Module-21-Challenge
 
-HTTP://127.0.0.1:7545
-0xb349c9bcae117fed25a4497e15d67af165f7d8877c1016acf532ae84f92f462c
-0xc50c2690aa0cf8d95e87dfca7e891272df30e29441bf8bdb0163557a05ea809f
+For this challenge I've defined a new cryptocurrency named KaseiCoin. It's a fungible token that’s ERC-20 compliant. I also created a crowdsale contract to launch the new token.
+
+## Files
+
+Starter_Code contains all the code for this challenge.
+Images is a folder holding screenshots used in the Evaluation Evidence section later in this README.
+KaseiCoin.sol is the solidity file containing the KaseiCoin token contract.
+KaseiCoinCrowdsale.sol is the solidity file containing the crowdsale contract and the crowdsale deployer contract.
+
+## Evaluation Evidence
+
+Here I compiled the KaseiCoin token contract is was successful.
+![Compliation Successful](https://github.com/JulHendrickson/Module-21-Challenge/assets/81846691/20d4ac29-a820-433f-92a8-8a23d4ca8d01)
+
+
+Here I compiled the crowd sale contract and was successful.
+![Crowdsale Compilation Successful](https://github.com/JulHendrickson/Module-21-Challenge/assets/81846691/4b838247-1017-4439-a9a3-a053d3ac3e1c)
+
+
+Here I compiled the crowd sale deployer contract and was successful.
+![CrowdsaleDeployer Compilation Successful](https://github.com/JulHendrickson/Module-21-Challenge/assets/81846691/f0b7ca44-ffa7-4eaa-942a-3652dbcc409d)
+
+
+Here I deployed the KaseiCoin token contract and was successful.
+![KaseiCoin Deploy Successful](https://github.com/JulHendrickson/Module-21-Challenge/assets/81846691/cfc23c02-d7e8-410c-9a01-8f09a9fda8d7)
+
+
